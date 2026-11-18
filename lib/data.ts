@@ -24,7 +24,7 @@ export const site = {
       map: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.7654426860463!2d88.41679277406246!3d22.662532329670622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89e8ae3b016bf%3A0x810a4cdea304d283!2sMahendra%20Apartment%2C%202%2F2%2C%20Sibachal%20Rd%2C%20opposite%20Nimta%2C%20Shibachal%2C%20Birati%2C%20Thana%2C%20North%20Dumdum%2C%20West%20Bengal%20700051!5e0!3m2!1sen!2sin!4v1735235261603!5m2!1sen!2sin",
     },
   ],
-  copyright: "Copyright 2024 Mountain Chambers, All Right Reserved.",
+  copyright: "Copyright 2026 Mountain Chambers, All Right Reserved. Built by Aethos Media",
 };
 
 // Bar Council of India disclaimer – verbatim from the live site.
